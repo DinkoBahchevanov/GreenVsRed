@@ -1,4 +1,4 @@
-package com.company.Constants;
+package com.company.constants;
 
 public class NumberConstants {
 

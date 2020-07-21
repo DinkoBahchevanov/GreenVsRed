@@ -1,7 +1,7 @@
 package com.company;
 
-import com.company.Constants.ColourConstants;
-import com.company.Constants.NumberConstants;
+import com.company.constants.ColourConstants;
+import com.company.constants.NumberConstants;
 
 import java.io.BufferedReader;
 import java.io.IOException;

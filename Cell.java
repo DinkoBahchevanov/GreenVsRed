@@ -1,6 +1,6 @@
 package com.company;
 
-import com.company.Constants.ColourConstants;
+import com.company.constants.ColourConstants;
 
 public class Cell implements Changeble {
 
